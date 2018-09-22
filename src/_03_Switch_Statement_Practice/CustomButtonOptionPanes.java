@@ -12,6 +12,106 @@ public class CustomButtonOptionPanes {
 		String choice = options[input];
 		
 		//use a switch statement to do something cool for each option
-		
+		switch(choice) {
+		case "Sunday":
+			System.out.println("Its monday... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday :)\n" + 
+					"\n" );
+			break;
+		case "Monday":
+			System.out.println("Its monday... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday :)\n" + 
+					"\n" );
+			break;
+		case "Tuesday":
+			System.out.println("Its monday-6... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday-6 :)\n" + 
+					"\n" );
+			break;
+		case "Wednesday":
+			System.out.println("Its monday-5... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday-5 :)\n" + 
+					"\n" );
+			break;
+		case "Thursday":
+			System.out.println("Its monday-4... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday-4 :)\n" + 
+					"\n" );
+			break;
+		case "Friday":
+			System.out.println("Its monday-3... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday-3 :)\n" + 
+					"\n" );
+			break;
+		case "Saturday":
+			System.out.println("Its monday-2... already??\n" + 
+					"\n" + 
+					": )\n" + 
+					"\n" + 
+					"u know what that means...\n" + 
+					"\n" + 
+					"Time To Shake Youre Tail Like This Funny Cat Doe\n" + 
+					"\n" + 
+					"s\n" + 
+					"\n" + 
+					": ) Happy a Good Monday-2 :)\n" + 
+					"\n" );
+			break;
+			
+	}
 	}
 }
