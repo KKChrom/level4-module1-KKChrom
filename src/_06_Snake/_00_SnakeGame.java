@@ -85,7 +85,18 @@ public class _00_SnakeGame implements ActionListener, KeyListener {
 		//2. Use a switch statement to determine which difficulty was chosen.
 		//   Use timer.setDelay(delay) with different numbers to change the speed
 		//   of the game. The smaller the number, the faster it goes.
-
+		switch(choice)
+		{
+		case Beginner:{
+			
+		}
+		case Moderate:{
+		
+		}
+		case Expert:{
+			
+		}
+		}
 		//3. start the timer
 	}
 
